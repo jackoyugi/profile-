@@ -1,7 +1,7 @@
 # Portfolio
 My portfolio
 ## Developed by
-**Omonge Calvince** ![](https://img.shields.io/badge/Programmer-Verified-brightgreen.svg)
+**Jack Oyugi** ![](https://img.shields.io/badge/Programmer-Verified-brightgreen.svg)
 ## Description
 My Portfolio
 
@@ -9,7 +9,7 @@ My Portfolio
   
 ### Setup instructions
 
- Clone this repo ``git clone https://github.com/jack/Portfolio-V2.git``
+ Clone this repo ``git clone https://github.com/jackoyugi/profile-.git``
 
 ## Technologies used
 - Javascript
@@ -19,7 +19,7 @@ My Portfolio
 
 
 ## Contact Information
- contact me @: calmosh1421@gmail.com
+ contact me @: jack@biofit.co.ke
 ## License
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://github.com/jack/Portfolio-V2/blob/master/LICENSE)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://github.com/jackoyugi/profile-/blob/master/LICENSE)
 
